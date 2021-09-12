@@ -54,7 +54,7 @@ Feature: welcome to karate
   * print spartan.id
 
 
-    Scenario: json array objects
+    Scenario: json array objectss
   * def students =
       """
       [
